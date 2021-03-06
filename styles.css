@@ -2,7 +2,7 @@
 
 
 .navigation ul {
-  font: 10pt 'Open Sans', sans-serif;
+  font: 12pt 'Open Sans', sans-serif;
   text-transform: uppercase;
   padding: 50px;
   background: #312f30;
@@ -13,7 +13,7 @@
 .navigation a {
   background: #312f30;
   color: #f6f2f1;
-  padding: 50px 20px;
+  padding: 50px 90px;
   text-decoration: none;
 }
 .navigation a:hover {
@@ -82,11 +82,29 @@ body {
   font-size: 14pt;
 }
 
-#warn {
-  background-color: #ff3f40;
+.photo {
+  width: 700px;
+  margin-top: 10px;
 }
 
-#warn:hover {
-  background-color: #f6f2f1;
-  color: #312f30;
+.array {
+  display: inline-block;
+  width: 320px;
+  padding-right: 30px;
+  margin-top: 20px;
+}
+
+iframe {
+  height: 300px;
+  width: 520px;
+
+}
+
+.podyka {
+  margin-top: 30px;
+  height: 860px;
+}
+
+.smallpicture, .сertificate {
+  width: 600px;
 }
